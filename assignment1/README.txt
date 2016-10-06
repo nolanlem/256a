@@ -1,4 +1,4 @@
-readme for 256a 
+readme for 256a assignment 1 
 
 
 BasicAudio01 is a juce project that shows a simple additive synthesis 
